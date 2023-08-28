@@ -4,3 +4,4 @@ pink
 green
 yellow
 white
+clear the issues
