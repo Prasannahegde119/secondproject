@@ -1,0 +1,68 @@
+.nav{
+    background-color:white;
+    overflow: auto;
+
+}
+
+.nav li{
+    float:left;
+    list-style: none;
+    padding:29px 10px;
+    margin:3px 3px;
+}
+
+nav li a{
+    padding: 3px 5px;
+    text-decoration: none;
+    margin: 3px;
+    color:black;
+    border: 2px solid white;
+    
+}
+
+.image1{
+    width:120px;
+    height:100px;
+    
+}
+
+.nav ul{
+    padding-left: 600px;
+    padding-top: 10px;
+}
+
+.div1{
+    width:120px;
+    height:8px;
+    padding-top: 20px;
+}
+
+.div2{
+    padding-top:0px;
+}
+
+.footer{
+    background-color: aqua;
+    padding:70px 0px;
+}
+
+.container{
+color:blue;
+}
+
+.list{
+    list-style: none;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.column{
+    width:25%;
+
+}
+
+
+
